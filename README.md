@@ -17,16 +17,17 @@ A simple, secure command-line tool written in Rust to generate random passwords 
 ```bash
 git clone https://github.com/yourusername/rust_password_generator_cli.git
 cd rust_password_generator_cli
-
+```
 ### 2. **Add Dependencies**
 
 In Cargo.toml:
 ```toml
 [dependencies]
 rand = "0.8"
-
+```
 ### 3. **Run the Project**
 ```bash
 cargo run -- 20
+```
 
 🔒 This generates a 20-character password. Default is 16 if no length is provided.
