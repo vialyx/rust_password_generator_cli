@@ -15,5 +15,5 @@ A simple, secure command-line tool written in Rust to generate random passwords 
 
 ### 1. **Clone the Repo**
 ```bash
-git clone https://github.com/yourusername/rust-password-generator.git
-cd rust-password-generator
+git clone https://github.com/yourusername/rust_password_generator_cli.git
+cd rust_password_generator_cli
